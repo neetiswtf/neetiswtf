@@ -1,5 +1,5 @@
 <p align="center">
-  <b> Neetis </b>
+  #$ NEETIS $
 </p>
 
 
