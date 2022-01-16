@@ -4,6 +4,11 @@
 
 
 <p align="center">
+  <img width="99" height="20" src="https://media.discordapp.net/attachments/847525618165219368/932388542015995934/standard_5.gif">
+</p>
+
+
+<p align="center">
   <img width="99" height="20" src="https://komarev.com/ghpvc/?username=neetiswtf&color=green">
 </p>
 
